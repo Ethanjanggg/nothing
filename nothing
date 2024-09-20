@@ -1,0 +1,2 @@
+git clone https://github.com/interstellarnetwork/interstellar
+cd interstellar && npm i && npm run start
